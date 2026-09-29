@@ -40,7 +40,7 @@ const CONFIG = {
     "u made me feel wanted",
     "u are buddhi+bhulakkad",
     "u so achi ",
-    "date me(marry too)",
+    "i changed dis one now guess what it was",
     "thanks for being my dino"
   ]
 
